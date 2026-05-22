@@ -51,6 +51,10 @@ nav = [
   {"Resident Handbook" = [
     "resident-handbook/index.md",
     "resident-handbook/flooring.md",
+    {"Plumbing" = [
+      "resident-handbook/plumbing/index.md",
+      "resident-handbook/plumbing/replace-shower-cartridge.md"
+    ]}
   ]}
 ]
 

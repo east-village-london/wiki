@@ -9,6 +9,7 @@ East Village homes use a consistent set of materials and systems across the deve
 | Guide | What it covers |
 |-------|---------------|
 | [Flooring](flooring.md) | Original specification, wear and damage, replacement options |
+| [Plumbing](plumbing/index.md) | Common plumbing tasks |
 
 ## General tips
 
